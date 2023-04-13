@@ -12,7 +12,6 @@ public class Demo {
 	
 		System.out.println("hi ra bavamaridi");
 
-		System.out.println("this is change by AT2");
 
 		System.out.println("Automation test engineer");
 		System.out.println("change made by prasanth");
